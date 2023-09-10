@@ -77,4 +77,3 @@ Out[4]: 5.0
 In [5]: (lambda: 'amazing lambda')() # func with no args!
 Out[5]: 'amazing lambda'
 ```
-# test

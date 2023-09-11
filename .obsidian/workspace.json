@@ -13,27 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learn-markdown/markdown学习.md",
+                "file": "git-learn/git.md",
                 "mode": "source",
                 "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "dc9a46e51da4af83",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3f63745ae05a74e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learn-markdown/markdown学习.md",
-                "mode": "preview",
-                "source": false
               }
             }
           }
@@ -103,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learn-markdown/markdown学习.md",
+                "file": "git-learn/git.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "learn-markdown/markdown学习.md",
+                "file": "git-learn/git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learn-markdown/markdown学习.md"
+                "file": "git-learn/git.md"
               }
             }
           }
@@ -166,8 +148,10 @@
   },
   "active": "abcdbee0caf65d30",
   "lastOpenFiles": [
-    "python/python list中sort函数的参数key的使用；python list中sort函数的参数key和lambda关键字的使用； 使用python中sort函数的参数key和lambda关键字排序.md",
     "learn-markdown/markdown学习.md",
+    "git-learn/git.md",
+    "git-learn",
+    "python/python list中sort函数的参数key的使用；python list中sort函数的参数key和lambda关键字的使用； 使用python中sort函数的参数key和lambda关键字排序.md",
     "learn-markdown",
     "python/python sort排序问题.md",
     "python/readme.md",

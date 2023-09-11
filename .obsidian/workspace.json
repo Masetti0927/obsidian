@@ -13,8 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python/python list中sort函数的参数key的使用；python list中sort函数的参数key和lambda关键字的使用； 使用python中sort函数的参数key和lambda关键字排序.md",
+                "file": "learn-markdown/markdown学习.md",
                 "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "dc9a46e51da4af83",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f63745ae05a74e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "python/python list中sort函数的参数key的使用；python list中sort函数的参数key和lambda关键字的使用； 使用python中sort函数的参数key和lambda关键字排序.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -146,11 +164,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ad73464fbdd7204d",
+  "active": "3f63745ae05a74e1",
   "lastOpenFiles": [
-    "未命名",
-    "python/python sort排序问题.md",
+    "learn-markdown/markdown学习.md",
     "python/python list中sort函数的参数key的使用；python list中sort函数的参数key和lambda关键字的使用； 使用python中sort函数的参数key和lambda关键字排序.md",
+    "learn-markdown",
+    "python/python sort排序问题.md",
     "python/readme.md",
     "2023-09-09.md",
     "obsidian_vault",

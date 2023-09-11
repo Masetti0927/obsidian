@@ -3,5 +3,6 @@
   "theme": "obsidian",
   "translucency": true,
   "nativeMenus": false,
-  "cssTheme": "Minimal"
+  "cssTheme": "Minimal",
+  "baseFontSize": 19
 }

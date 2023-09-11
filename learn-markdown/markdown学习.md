@@ -22,3 +22,13 @@
 - [ ] 吃饭
 - [ ] 睡觉
 - [ ] 打地鼠
+
+代码块
+```python
+print('what hell was that?')
+```
+
+数学公式
+$$
+\frac{\partial f}{\partial x} = 2\sqrt{a}x
+$$

@@ -32,3 +32,14 @@ print('what hell was that?')
 $$
 \frac{\partial f}{\partial x} = 2\sqrt{a}x
 $$
+
+表格:
+
+| 姓名 | 年龄 | 成绩 |
+| :--- | ---: | :---:|
+|张三|18|99|
+
+
+
+
+

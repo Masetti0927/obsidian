@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LaTex/README.md",
-                "mode": "source",
+                "file": "LaTex/LaTex基础.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LaTex/README.md",
+                "file": "LaTex/LaTex基础.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LaTex/README.md"
+                "file": "LaTex/LaTex基础.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LaTex/README.md",
+                "file": "LaTex/LaTex基础.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "26e69e3125f94e3b",
+  "active": "ad73464fbdd7204d",
   "lastOpenFiles": [
     "learn-markdown/markdown学习.md",
     "baidu.com.md",

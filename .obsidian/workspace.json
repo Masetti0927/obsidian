@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LaTex/LaTex基础.md",
+                "file": "learn-c/C语言格式化输出字符.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LaTex/LaTex基础.md",
+                "file": "learn-c/C语言格式化输出字符.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LaTex/LaTex基础.md"
+                "file": "learn-c/C语言格式化输出字符.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LaTex/LaTex基础.md",
+                "file": "learn-c/C语言格式化输出字符.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,13 +158,14 @@
   },
   "active": "26e69e3125f94e3b",
   "lastOpenFiles": [
-    "LaTex/数学公式编辑.md",
     "LaTex/LaTex基础.md",
+    "learn-c/C语言格式化输出字符.md",
+    "LaTex/数学公式编辑.md",
     "learn-markdown/markdown学习.md",
     "baidu.com.md",
     "git-learn/git.md",
     "conflict-files-obsidian-git.md",
-    "git-learn",
+    "learn-c",
     "python/python list中sort函数的参数key的使用；python list中sort函数的参数key和lambda关键字的使用； 使用python中sort函数的参数key和lambda关键字排序.md",
     "learn-markdown",
     "python/python sort排序问题.md",

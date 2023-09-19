@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "LaTex/LaTex基础.md",
-                "mode": "preview",
-                "source": false
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -156,8 +156,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ad73464fbdd7204d",
+  "active": "26e69e3125f94e3b",
   "lastOpenFiles": [
+    "LaTex/数学公式编辑.md",
+    "LaTex/LaTex基础.md",
     "learn-markdown/markdown学习.md",
     "baidu.com.md",
     "git-learn/git.md",

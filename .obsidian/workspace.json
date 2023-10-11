@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learn-markdown/markdown学习.md",
+                "file": "LaTex/LaTex基础.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learn-markdown/markdown学习.md",
+                "file": "LaTex/LaTex基础.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learn-markdown/markdown学习.md"
+                "file": "LaTex/LaTex基础.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "learn-markdown/markdown学习.md",
+                "file": "LaTex/LaTex基础.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,15 +158,15 @@
   },
   "active": "bcd3d670ecb2d769",
   "lastOpenFiles": [
+    "LaTex/数学公式编辑.md",
+    "LaTex/LaTex基础.md",
+    "learn-markdown/markdown学习.md",
     "learn-c/C语言格式化输出字符.md",
     "python/python list中sort函数的参数key的使用；python list中sort函数的参数key和lambda关键字的使用； 使用python中sort函数的参数key和lambda关键字排序.md",
     "learn-c/progbp.md",
     "python/python sort排序问题.md",
     "未命名.canvas",
     "2023-09-19.md",
-    "learn-markdown/markdown学习.md",
-    "LaTex/LaTex基础.md",
-    "LaTex/数学公式编辑.md",
     "baidu.com.md",
     "git-learn/git.md",
     "conflict-files-obsidian-git.md",

@@ -53,7 +53,7 @@ $$
 链接：
 
 [百度](https://baidu.com "一个搜索引擎")
-
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](http://choosealicense.com/licenses/mit/)
 
 
 

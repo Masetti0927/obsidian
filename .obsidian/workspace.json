@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6c7f49ee1795820e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learn-markdown/markdown学习.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learn-c/C语言格式化输出字符.md",
+                "file": "learn-markdown/markdown学习.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learn-c/C语言格式化输出字符.md"
+                "file": "learn-markdown/markdown学习.md"
               }
             }
           },
@@ -123,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "learn-c/C语言格式化输出字符.md",
+                "file": "learn-markdown/markdown学习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +169,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "bcd3d670ecb2d769",
+  "active": "6c7f49ee1795820e",
   "lastOpenFiles": [
     "LaTex/LaTex基础.md",
     "learn-c/C语言格式化输出字符.md",

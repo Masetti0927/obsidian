@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a4c8c2a91009a7d3",
+        "id": "153af6aa6742eab5",
         "type": "tabs",
         "children": [
           {
-            "id": "bcd3d670ecb2d769",
+            "id": "a85f1cec588dca8b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learn-c/C语言格式化输出字符.md",
+                "file": "learn-c/代码备份.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "6c7f49ee1795820e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learn-c/C语言格式化输出字符.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learn-c/C语言格式化输出字符.md",
+                "file": "learn-c/代码备份.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learn-c/C语言格式化输出字符.md"
+                "file": "learn-c/代码备份.md"
               }
             }
           },
@@ -136,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "learn-c/C语言格式化输出字符.md",
+                "file": "learn-c/代码备份.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +135,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -169,14 +158,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6c7f49ee1795820e",
+  "active": "a85f1cec588dca8b",
   "lastOpenFiles": [
+    "learn-c/C语言格式化输出字符.md",
     "python/python list中sort函数的参数key的使用；python list中sort函数的参数key和lambda关键字的使用； 使用python中sort函数的参数key和lambda关键字排序.md",
     "learn-markdown/markdown学习.md",
     "README.md",
     "python/python sort排序问题.md",
     "LaTex/LaTex基础.md",
-    "learn-c/C语言格式化输出字符.md",
     "LaTex/测试文件，用完即删.md",
     "LaTex/数学公式编辑.md",
     "learn-c/progbp.md",

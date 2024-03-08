@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learn-c/代码备份.md",
+                "file": "torch/Python torch.normal实例讲解.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learn-c/代码备份.md",
+                "file": "torch/Python torch.normal实例讲解.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learn-c/代码备份.md"
+                "file": "torch/Python torch.normal实例讲解.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "learn-c/代码备份.md",
+                "file": "torch/Python torch.normal实例讲解.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,16 +160,21 @@
   },
   "active": "a85f1cec588dca8b",
   "lastOpenFiles": [
+    "未命名.canvas",
+    "torch/Python torch.normal实例讲解.md",
+    "2024-03-08.md",
+    "learn-markdown/markdown学习.md",
+    "learn-c/代码备份.md",
+    "未命名",
+    "torch",
     "learn-c/C语言格式化输出字符.md",
     "python/python list中sort函数的参数key的使用；python list中sort函数的参数key和lambda关键字的使用； 使用python中sort函数的参数key和lambda关键字排序.md",
-    "learn-markdown/markdown学习.md",
     "README.md",
     "python/python sort排序问题.md",
     "LaTex/LaTex基础.md",
     "LaTex/测试文件，用完即删.md",
     "LaTex/数学公式编辑.md",
     "learn-c/progbp.md",
-    "未命名.canvas",
     "2023-09-19.md",
     "baidu.com.md",
     "git-learn/git.md",

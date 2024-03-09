@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "torch/torch疑难.md",
+                "file": "torch/Python torch.normal实例讲解.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "torch/torch疑难.md",
+                "file": "torch/Python torch.normal实例讲解.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "torch/torch疑难.md"
+                "file": "torch/Python torch.normal实例讲解.md"
               }
             }
           },
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "torch/torch疑难.md",
+                "file": "torch/Python torch.normal实例讲解.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,8 +173,8 @@
   },
   "active": "7fed1c107c6e7e4b",
   "lastOpenFiles": [
-    "torch/Python torch.normal实例讲解.md",
     "torch/torch疑难.md",
+    "torch/Python torch.normal实例讲解.md",
     "未命名.canvas",
     "2024-03-08.md",
     "learn-markdown/markdown学习.md",

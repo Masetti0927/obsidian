@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "917fd8dd466f984c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "torch/torch疑难.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "睿抗机器狗/机器狗相关研究概览.md",
+                "file": "torch/torch疑难.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "睿抗机器狗/机器狗相关研究概览.md"
+                "file": "torch/torch疑难.md"
               }
             }
           },
@@ -136,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "睿抗机器狗/机器狗相关研究概览.md",
+                "file": "torch/torch疑难.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +183,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "7fed1c107c6e7e4b",
+  "active": "917fd8dd466f984c",
   "lastOpenFiles": [
     "learn-markdown/markdown学习.md",
     "睿抗机器狗/机器狗相关研究概览.md",

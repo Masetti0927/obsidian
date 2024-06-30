@@ -42,9 +42,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0a653807e4730fe0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -183,7 +193,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "917fd8dd466f984c",
+  "active": "0a653807e4730fe0",
   "lastOpenFiles": [
     "LaTex/LaTex基础.md",
     "torch/torch疑难.md",

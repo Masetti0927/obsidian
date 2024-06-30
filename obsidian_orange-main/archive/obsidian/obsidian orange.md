@@ -1,0 +1,1 @@
+因为我最爱的水果就是 <font style="color: rgb(222, 120, 2);padding: 5px 5px">橙子</font>，所以就将主题命名为：<font style="color: rgb(222, 120, 2);padding: 5px 5px">Obsidian Orange</font>。

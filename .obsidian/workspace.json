@@ -42,21 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "0a653807e4730fe0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cpp大作业/Cpp结构.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cpp大作业/Cpp结构.md",
+                "file": "learn-markdown/markdown学习.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cpp大作业/Cpp结构.md"
+                "file": "learn-markdown/markdown学习.md"
               }
             }
           },
@@ -160,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cpp大作业/Cpp结构.md",
+                "file": "learn-markdown/markdown学习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,11 +183,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0a653807e4730fe0",
+  "active": "917fd8dd466f984c",
   "lastOpenFiles": [
+    "Cpp大作业/Cpp结构.md",
     "learn-markdown/markdown学习.md",
     "睿抗机器狗/机器狗相关研究概览.md",
-    "Cpp大作业/Cpp结构.md",
     "未命名.md",
     "Cpp大作业",
     "README.md",

@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "153af6aa6742eab5",
+        "id": "b0ac30af1e71f47b",
         "type": "tabs",
         "children": [
           {
-            "id": "a85f1cec588dca8b",
+            "id": "f0b4e309eda608f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "torch/Python torch.normal实例讲解.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7fed1c107c6e7e4b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "睿抗机器狗/机器狗相关研究概览.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "917fd8dd466f984c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learn-markdown/markdown学习.md",
+                "file": "白荆回廊解包教程/解包教程.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learn-markdown/markdown学习.md",
+                "file": "白荆回廊解包教程/解包教程.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learn-markdown/markdown学习.md"
+                "file": "白荆回廊解包教程/解包教程.md"
               }
             }
           },
@@ -148,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "learn-markdown/markdown学习.md",
+                "file": "白荆回廊解包教程/解包教程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,11 +158,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "917fd8dd466f984c",
+  "active": "f0b4e309eda608f1",
   "lastOpenFiles": [
-    "Cpp大作业/Cpp结构.md",
-    "learn-markdown/markdown学习.md",
+    "白荆回廊解包教程/解包教程.md",
+    "白荆回廊解包教程",
+    "torch/Python torch.normal实例讲解.md",
     "睿抗机器狗/机器狗相关研究概览.md",
+    "learn-markdown/markdown学习.md",
+    "Cpp大作业/Cpp结构.md",
     "未命名.md",
     "Cpp大作业",
     "README.md",
@@ -195,7 +173,6 @@
     "learn-c/C语言格式化输出字符.md",
     "learn-c/代码备份.md",
     "torch/torch疑难.md",
-    "torch/Python torch.normal实例讲解.md",
     "睿抗机器狗",
     "未命名.canvas",
     "2024-03-08.md",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pro-eng/eng.md",
+                "file": "torch/pytorch构建数据集的方法汇总.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pro-eng/eng.md",
+                "file": "torch/pytorch构建数据集的方法汇总.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pro-eng/eng.md"
+                "file": "torch/pytorch构建数据集的方法汇总.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pro-eng/eng.md",
+                "file": "torch/pytorch构建数据集的方法汇总.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,8 +160,11 @@
   },
   "active": "475720f919d99af8",
   "lastOpenFiles": [
-    "未命名.md",
+    "torch/Python torch.normal实例讲解.md",
+    "torch/pytorch构建数据集的方法汇总.md",
+    "torch/torch疑难.md",
     "pro-eng/eng.md",
+    "未命名.md",
     "毛概/毛概.md",
     "pro-eng",
     "白荆回廊解包教程/解包教程.md",
@@ -179,11 +182,9 @@
     "白荆回廊解包教程/Pasted image 20240907205947.png",
     "Pasted image 20240907183012.png",
     "白荆回廊解包教程",
-    "torch/Python torch.normal实例讲解.md",
     "Cpp大作业",
     "README.md",
     "LaTex/LaTex基础.md",
-    "torch/torch疑难.md",
     "睿抗机器狗",
     "未命名.canvas",
     "2024-03-08.md",
@@ -200,7 +201,6 @@
     "python/readme.md",
     "2023-09-09.md",
     "obsidian_vault",
-    "python",
-    "2023-06-06.md"
+    "python"
   ]
 }

@@ -25,12 +25,14 @@
             "id": "19fed550146de510",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.4"
+                "file": "flutter/解决flutter每次新建项目都需要修改gradle配置文件的问题.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
+              "icon": "lucide-file",
+              "title": "解决flutter每次新建项目都需要修改gradle配置文件的问题"
             }
           }
         ],
@@ -107,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "flutter/解决flutter每次新建项目都需要修改gradle配置文件的问题.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "解决flutter每次新建项目都需要修改gradle配置文件的问题 的反向链接列表"
             }
           },
           {
@@ -140,12 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "flutter/解决flutter每次新建项目都需要修改gradle配置文件的问题.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "解决flutter每次新建项目都需要修改gradle配置文件的问题 的大纲"
             }
           },
           {
@@ -154,11 +158,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "flutter/解决flutter每次新建项目都需要修改gradle配置文件的问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "解决flutter每次新建项目都需要修改gradle配置文件的问题 的出链列表"
             }
           },
           {
@@ -192,9 +197,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ad73464fbdd7204d",
+  "active": "19fed550146de510",
   "lastOpenFiles": [
-    "未命名",
+    "flutter/解决flutter每次新建项目都需要修改gradle配置文件的问题.md",
+    "flutter",
     "torch/Python torch.normal实例讲解.md",
     "torch/pytorch构建数据集的方法汇总.md",
     "torch/torch疑难.md",
@@ -234,7 +240,6 @@
     "learn-c",
     "learn-markdown",
     "python/readme.md",
-    "obsidian_vault",
-    "python"
+    "obsidian_vault"
   ]
 }
